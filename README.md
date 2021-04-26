@@ -1,5 +1,5 @@
 # thesims4
-The Sims 4 user generated content by me. Updates listed at https://warrenwoodhouse.fandom.com/wiki/Guides:TheSims4?useskin=oasis#Changelog
+The Sims 4 user generated content by me. Updates listed at https://warrenwoodhouse.fandom.com/wiki/Guides:TheSims4?action=toggle_view_desktop#Changelog
 
 # Screenshots
 [CLICK HERE](https://photos.app.goo.gl/DEgQCbPKJ7MNyRRQA) to view all of the screenshots I took in The Sims 4.
